@@ -1,0 +1,7 @@
+{
+  "name": "TreeJobs Marketplace",
+  "description": "A dedicated two-sided marketplace connecting property owners with qualified arborists for professional tree work.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
