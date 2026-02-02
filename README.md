@@ -88,3 +88,4 @@ To further improve SEO in production deployments, consider:
 
 This project is for personal and educational use. Adapt and extend it as needed for your own tree‑care or home‑services marketplace.
 # TreeJobs-NextJS
+# TreeJobs-NextJS
